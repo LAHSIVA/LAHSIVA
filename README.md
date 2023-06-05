@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VISHAL V</h1>
 <h3 align="center"><i>A passionate frontend developer from india</i></h3>
 
-<img src="gitreadme.gif" alt="gitreadme" align="center" height="500px" width="1200px">
+<img class="gif" src="gitreadme.gif" alt="gitreadme" align="center" height="500px" width="1200px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahsiva&label=Profile%20views&color=0e75b6&style=flat" alt="lahsiva" /> </p>
 
