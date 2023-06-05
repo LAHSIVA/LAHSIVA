@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm VISHAL V</h1>
 <h3 align="center"><i>A passionate frontend developer from india</i></h3>
 
+<img src="gitreadme.gif" alt="gitreadme" align="center" height="500px" width="1200px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahsiva&label=Profile%20views&color=0e75b6&style=flat" alt="lahsiva" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahsiva" alt="lahsiva" /></a> </p>
